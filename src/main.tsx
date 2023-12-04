@@ -82,10 +82,9 @@ const App = () => {
   }, [connect])
 
   const defaultTokenOut: { [chainId: number]: string } = {
-    2: '0x6e226bbcdcf83ae597970abe44beec1550c16c9a',
     1: '0x1068a889fd7151fb2ca9d98d268b0d0cd623fc2f',
     137: '0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174',
-    56: '0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56',
+    56: '0xda4714fee90ad7de50bc185ccd06b175d23906c1',
     43114: '0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E',
     250: '0x049d68029688eAbF473097a2fC38ef61633A3C7A',
     25: '0x66e428c3f67a68878562e79A0234c1F83c208770',
